@@ -10,3 +10,9 @@
     font-weight: 400;
     font-style: normal;
 }
+@font-face {
+    font-family: "Reds";
+    src: url("/theme/webfonts/Reds.ttf") format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
